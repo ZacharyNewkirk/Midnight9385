@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Midnight9385
+- 👋 Hi, I’m Zachary Newkirk
 - 👀 I’m interested in robotics programming, mostly in autonomous actions
 - 🌱 I’m currently learning Java, Python, and C++
 
